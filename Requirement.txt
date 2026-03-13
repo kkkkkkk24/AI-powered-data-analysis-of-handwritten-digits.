@@ -1,3 +1,9 @@
 tensorflow
-matplotlib
+keras
 numpy
+pandas
+matplotlib
+seaborn
+streamlit
+Pillow
+scikit-learn
